@@ -67,6 +67,4 @@ This project showcases how to create powerful, AI-driven applications by leverag
 
 - Special thanks to [CognitiveClass.ai](https://cognitiveclass.ai/) for providing this insightful course and materials.
 
-Feel free to explore, modify, and contribute to this repository! Happy coding! 🎉
-
 ---
